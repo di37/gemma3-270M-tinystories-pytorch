@@ -143,7 +143,7 @@ The model achieves:
 
 ### Training Results
 
-Detailed training analysis and model evaluation can be found in [`results/results_interpertation.md`](results/results_interpertation.md), which includes:
+Detailed training analysis and model evaluation can be found in [`results/README.md`](results/results_interpertation.md), which includes:
 
 - **📊 Loss Analysis**: Training and validation loss curves showing smooth convergence without overfitting
 - **📝 Qualitative Evaluation**: Story generation examples demonstrating coherent narrative abilities
